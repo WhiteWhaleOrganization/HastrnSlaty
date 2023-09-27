@@ -1,0 +1,2 @@
+# HastrnSlaty
+HastrnSlaty Module
