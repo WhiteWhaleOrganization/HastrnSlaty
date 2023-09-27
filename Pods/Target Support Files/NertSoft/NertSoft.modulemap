@@ -1,0 +1,6 @@
+framework module NertSoft {
+  umbrella header "NertSoft-umbrella.h"
+
+  export *
+  module * { export * }
+}

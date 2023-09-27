@@ -1,0 +1,6 @@
+framework module BasqVisually {
+  umbrella header "BasqVisually-umbrella.h"
+
+  export *
+  module * { export * }
+}

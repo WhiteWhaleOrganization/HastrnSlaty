@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  coolIt
+//
+//  Created by dn on 2023/9/19.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "BasqVisuallyIntentModel.h"
+#import "NSObject+FreBakehouseGunshot.h"
+#import "FryAitchFecal.h"
+#import "GodhadDisconcert.h"
+#import "UIColor+BlondQuadrant.h"
+#import "Masonry.h"
+#import "LibyanScathFlatbedFunction.h"
+#import "PrognitorTemperateManager.h"
+
+#endif /* PrefixHeader_pch */
