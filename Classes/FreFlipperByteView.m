@@ -18,7 +18,7 @@
     [self addSubview:self.clnInterpretDragView];
 }
 
-- (void)setDataArray:(NSArray *)modeNdustry{
+- (void)setModeNdustry:(NSArray *)modeNdustry{
     _modeNdustry = modeNdustry;
     [self prpiseEnlargeCompass];
 }
